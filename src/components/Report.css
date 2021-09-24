@@ -1,0 +1,13 @@
+.report-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 15px;  /*ปรับระยะตัวอีกษรกับกรอบ*/
+    margin: 15px 0; /*ระยะห่างบนล่าง*/
+   
+}
+.report{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
